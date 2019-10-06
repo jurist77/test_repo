@@ -4,4 +4,8 @@ secon s
 feature
 ????
 try --no-ff
+<<<<<<< HEAD
 more chenge
+=======
+1
+>>>>>>> feature_test
